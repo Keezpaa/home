@@ -27,7 +27,7 @@
 
 9. To deploy website, run:
 
-   ```bash
+  ```bash
     npm run build
     npm run custom-deploy
    ```
