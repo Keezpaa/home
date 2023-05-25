@@ -7,7 +7,6 @@ const navBar = {
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
   firstName: "Kasper",
-  middleName: "",
   lastName: "Iversen",
   message: " Passionate about changing the world with technology. ",
   icons: [
@@ -54,8 +53,8 @@ const about = {
   imageLink: require("../editable-stuff/militaryPic.jpg"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+    "My name is Kasper Iversen. I'm a norwegian IT-student at Høgskolen i Østfold (Halden) and in June 2023 I'll have a bachelors' degree in Software engineering and business intelligence . I'm looking forward to working with IT, and my goal is to pursue this passion within the field of software engineering, both back-end and front-end. In my free time I like working on projects and learning new things, I also like to do strength training, take my dog for a walk, be with my friends and take care of my family.",
+  resume: require("../editable-stuff/KasperIversenCV.pdf"),
 };
 
 // PROJECTS SECTION
@@ -100,13 +99,13 @@ const skills = {
   show: true,
   heading: "Skills",
   hardSkills: [
-    { name: "Python", value: 90 },
-    { name: "SQL", value: 75 },
-    { name: "Data Structures", value: 85 },
-    { name: "C/C++", value: 65 },
-    { name: "JavaScript", value: 90 },
-    { name: "React", value: 65 },
-    { name: "HTML/CSS", value: 55 },
+    { name: "Python", value: 70 },
+    { name: "SQL", value: 70 },
+    { name: "Data Structures", value: 70 },
+    { name: "C/C++", value: 70 },
+    { name: "JavaScript", value: 75 },
+    { name: "React", value: 40 },
+    { name: "HTML/CSS", value: 90 },
     { name: "C#", value: 80 },
   ],
   softSkills: [
