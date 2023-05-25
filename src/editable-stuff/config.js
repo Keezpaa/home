@@ -54,7 +54,7 @@ const about = {
   imageSize: 375,
   message:
     "My name is Kasper Iversen. I'm a norwegian IT-student at Høgskolen i Østfold (Halden) and in June 2023 I'll have a bachelors' degree in Software engineering and business intelligence . I'm looking forward to working with IT, and my goal is to pursue this passion within the field of software engineering, both back-end and front-end. In my free time I like working on projects and learning new things, I also like to do strength training, take my dog for a walk, be with my friends and take care of my family.",
-  resume: require("../editable-stuff/KasperIversenCV.pdf"),
+  resume: require("../editable-stuff/KaspersCV.pdf"),
 };
 
 // PROJECTS SECTION
